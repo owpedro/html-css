@@ -47,20 +47,20 @@ header{
   }
 
   #pheader{
-    position: absolute;
-    top: 50%;
+    top: 55%;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     max-width: 300px;
     min-width: 320px;
     margin: auto;
     font-weight:600 ;
-    font-size: small;
+    font-size: medium;
   }
   #pnav{
     left: 10px;
     bottom: 0px;
     display: flex;
     position: absolute;
+    font-size: large;
   }
   nav > a{
     padding: 5px;
